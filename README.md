@@ -1,6 +1,6 @@
 ## Hi there 👋 
 I'm new to this whole thing so please be kind :)
-“Keep your face towards the sunshine and shadows will fall behind you.” —Walt Whitman
+<br>“Keep your face towards the sunshine and shadows will fall behind you.” —Walt Whitman</br>
 <!--
 **MasterLeavei/MasterLeavei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
